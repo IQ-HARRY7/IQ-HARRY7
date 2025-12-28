@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Balarama Sahu, The creator of IQ_TURBO ,Z_SEC & CopyQ.<br>I'm currently working on my Own Projects- CopyQ ,IQ_TURBO & Z_SEC.<br>I'm a Android & Linux Developer. <br>I'm a Developer, With Java & Manifest knowledge.<br><br>__--MALE--__--INDIA-- __<br><br>contact:- sahubalarama739@gmail.com<br><br>Phone number:- +91 7381029332
+I'm Balarama Sahu, The creator of IQ_TURBO ,Z_SEC & CopyQ.<br>I'm currently working on my Own Projects- CopyQ ,IQ_TURBO & Z_SEC.<br>I'm a Android & Linux Developer. <br>I'm a Developer, With Java & Manifest knowledge.<br><br>__--MALE--__
+__--INDIA-- __<br><br>contact:- sahubalarama739@gmail.com<br><br>Phone number:- +91 7381029332
 
 
 ## 🌐 Socials:

@@ -12,7 +12,7 @@ I'm Balarama Sahu, The creator of IQ_TURBO ,Z_SEC & CopyQ.<br>I'm currently work
 ![](https://nirzak-streak-stats.vercel.app/?user=IQ-HARRY7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IQ-HARRY7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ My Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

@@ -2,6 +2,8 @@
 I'm Balarama Sahu, The creator of IQ_TURBO ,Z_SEC & CopyQ.<br>I'm currently working on my Own Projects- CopyQ ,IQ_TURBO & Z_SEC.<br>I'm a Android & Linux Developer. <br>I'm a Developer, With Java & Manifest knowledge.<br><br>__--MALE--__
 __--INDIA-- __<br><br>contact:- sahubalarama739@gmail.com<br><br>Phone number:- +91 7381029332
 
+## 🚀 Projects
+- [IQ_TURBO — Android Performance Engine](https://github.com/IQ-HARRY7/IQ_TURBO)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1F3WgrwFt3/)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/real__iq_harry7?igsh=MTF1Y2h4a3l0MmFjcQ==) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iq_harry.1?si=aKpw90Ra9vKjHUPF) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahubalarama739@gmail.com) 
@@ -20,3 +22,5 @@ __--INDIA-- __<br><br>contact:- sahubalarama739@gmail.com<br><br>Phone number:- 
 [![](https://visitcount.itsvg.in/api?id=IQ-HARRY7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
